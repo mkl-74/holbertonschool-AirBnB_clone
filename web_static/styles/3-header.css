@@ -9,10 +9,11 @@ header {
 }
 
 .logo {
-    background-image: url(./images/logo.png);
+    background-image: url(../images/logo.png);
     width: 150px;
     height: 150px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
 }
+
